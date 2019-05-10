@@ -1,1 +1,1 @@
-# ColegioSMAAlternativo
+# ColegioSMA
